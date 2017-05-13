@@ -10,3 +10,9 @@ set expandtab
 
 "" Misc
 imap jk <Esc>
+:set mouse=a
+
+"" Color
+set t_Co=256
+set background=dark
+colorscheme PaperColor
