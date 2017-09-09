@@ -5,7 +5,7 @@ filetype plugin indent on
 set number
 
 "" Whitespace
-set tabstop=2 shiftwidth=4
+set tabstop=2 shiftwidth=2
 set expandtab
 
 "" Misc
